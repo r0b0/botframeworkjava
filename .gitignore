@@ -1,0 +1,4 @@
+swagger-codegen-cli.jar
+generated/
+*.un~
+*.swp

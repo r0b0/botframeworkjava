@@ -1,0 +1,22 @@
+{
+"modelPackage" : "com.x-msbotframework.connectionapi.model",
+"apiPackage" : "com.x-msbotframework.connectionapi.api",
+"invokerPackage" : "com.x-msbotframework.connectionapi.invoker",
+"groupId" : "com.x-msbotframework",
+"artifactId" : "connectionapi",
+"artifactVersion" : "0.0.1-SNAPSHOT",
+"artifactUrl": null,
+"artifactDescription": "MS Bot Framework",
+"scmConnection":null,
+"scmDeveloperConnection": null,
+"scmUrl":null,
+"developerName":null,
+"developerEmail":null,
+"developerOrganization":null,
+"developerOrganizationUrl":null,
+"serializableModel" : "true",
+"fullJavaUtil" : "true",
+"dateLibrary" : "java8",
+"java8": "true",
+"library" : "jersey1"
+}
