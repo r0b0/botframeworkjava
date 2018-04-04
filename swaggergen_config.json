@@ -4,7 +4,7 @@
 "invokerPackage" : "com.x-msbotframework.connectionapi.invoker",
 "groupId" : "com.x-msbotframework",
 "artifactId" : "connectionapi",
-"artifactVersion" : "0.0.1-SNAPSHOT",
+"artifactVersion" : "0.0.2-SNAPSHOT",
 "artifactUrl": null,
 "artifactDescription": "MS Bot Framework",
 "scmConnection":null,
@@ -18,5 +18,5 @@
 "fullJavaUtil" : "true",
 "dateLibrary" : "java8",
 "java8": "true",
-"library" : "jersey1"
+"library" : "jersey2"
 }
