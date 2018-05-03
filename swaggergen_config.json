@@ -4,7 +4,7 @@
 "invokerPackage" : "com.x-msbotframework.connectionapi.invoker",
 "groupId" : "com.x-msbotframework",
 "artifactId" : "connectionapi",
-"artifactVersion" : "0.0.2-SNAPSHOT",
+"artifactVersion" : "0.0.2",
 "artifactUrl": null,
 "artifactDescription": "MS Bot Framework",
 "scmConnection":null,
