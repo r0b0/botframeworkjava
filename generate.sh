@@ -11,5 +11,12 @@ $CODEGEN generate \
 
 cd $OUTPUT
 
-mvn package
+mvn package javadoc:javadoc
+
+cd ..
+
+rm -rf docs
+mkdir docs
+
+cp -r $OUTPUT/target/site/apidocs/* docs/
 
